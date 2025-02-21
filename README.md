@@ -68,14 +68,14 @@ print(result)
   "error": null,
   "data": {
     "dob": "1990-01-01",
-    "age_years": 34,
-    "age_months": 416,
-    "age_weeks": 1812,
-    "age_days": 12686,
+    "age_years": 35,
+    "age_months": 421,
+    "age_weeks": 1833,
+    "age_days": 12834,
     "age_words": {
-      "years": "thirty-four",
-      "ordinal": "thirty-fourth",
-      "full": "thirty-four years old"
+      "years": "thirty-five",
+      "ordinal": "thirty-fifth",
+      "full": "thirty-five years old"
     }
   },
   "code": 200
@@ -104,7 +104,7 @@ All usage of the APIVerve website, API, and services is subject to the [APIVerve
 ## License
 Licensed under the The MIT License (MIT)
 
-Copyright (&copy;) 2024 APIVerve, and Evlar LLC
+Copyright (&copy;) 2025 APIVerve, and EvlarSoft LLC
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
